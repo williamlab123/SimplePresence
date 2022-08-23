@@ -1,0 +1,84 @@
+body
+{
+    background-color:ff,ff,ff;
+}
+#btn1
+  {
+    border-radius: 15px;
+    background-color: white;
+    border-color: white;
+    float: left;
+    padding-top: 10px;
+    text-align: center;
+    
+    
+    
+  }
+  #btn2
+  {
+    border-radius: 15px;
+    background-color: white;
+    border-color: white;
+    float: right;
+    padding-top: 10px;
+  }
+
+  .quem_somos
+  {
+    background-color: red;
+  }
+  #btn3
+  {
+    border-radius: 15px;
+    background-color: white;
+    border-color: white;
+    float: right;
+    padding-top: 10px;
+  }
+#div1
+{
+    padding-top: 20px;
+    text-align: center;
+}
+
+#div2
+{
+    padding-top: 100px;
+  margin-left: 200px;
+  float: left;
+
+
+
+}
+
+
+#div2:hover
+{
+  transform:scale(1.25, 1.25);
+}
+
+#div3
+{
+  
+    float: right;
+    padding-top: 100px;
+    padding-right: 200px;
+    
+}
+#div3:hover
+{
+  transform:scale(1.25, 1.25);
+}
+
+
+
+footer {
+    text-align: center;
+    background-color:#4d0000;
+    width: 100%;
+    color: white;
+    bottom: 0;
+    position: fixed;
+  }
+
+  
