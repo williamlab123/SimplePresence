@@ -1,0 +1,27 @@
+body
+{
+    margin: 0;
+}
+
+.main-login
+{
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    padding-top: 250px;
+
+
+  
+    
+}
+
+
+
+#img
+{
+    padding-top: 20px;
+    text-align: center;
+}
+
