@@ -1,0 +1,58 @@
+body
+{
+    background-color:rgb(70, 66, 66)
+  
+}
+
+#img
+{
+    padding-top: 20px;
+    text-align: center;
+}
+
+
+#wifi
+{
+    padding-top: 150px;
+    margin-left: 200px;
+    float: left;
+
+
+
+}
+
+#wifi:hover
+{
+  transform:scale(1.25, 1.25);
+}
+
+
+#geo
+{
+    padding-top: 150px;
+    margin-left: 200px;
+  
+}
+
+#geo:hover
+{
+  transform:scale(1.25, 1.25);
+}
+
+
+#qrcode
+{
+  
+    float: right;
+    padding-top: 150px;
+    padding-right: 200px;
+    
+}
+#qrcode:hover
+{
+  transform:scale(1.25, 1.25);
+}
+
+
+
+

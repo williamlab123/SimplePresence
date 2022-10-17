@@ -1,11 +1,15 @@
 body
 {
     margin: 0;
+    background-color:rgb(70, 66, 66);
 }
 
 .main-login
 {
-    background-color: black;
+    font-size: 2.5ch;
+    width: 20%;
+    height: 50px;
+    background-color:rgb(70, 66, 66);
     width: 100vw;
     height: 100vh;
     display: flex;
@@ -19,9 +23,22 @@ body
 
 
 
+
 #img
 {
     padding-top: 20px;
     text-align: center;
+}
+
+.btn-login
+{
+   cursor: pointer;
+   background-color: rgb(70, 66, 66);
+   border: 1;
+}
+
+.btn-login:hover
+{
+    background-color: rgb(51, 47, 47);
 }
 
