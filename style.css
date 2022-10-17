@@ -5,15 +5,16 @@ body
 }
 #btn1
   {
-    font-family: 'Courier New', Courier, monospace;
-    font-size:2.5ch;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:2.8ch;
     border-radius: 15px;
     background-color: rgb(70, 66, 66);
     border: 0px;
     float: left;
     padding-top: 10px;
     text-align: center;
-    padding-right: 20px;
+ 
+    padding-left: 20px;
     cursor: pointer;
   
     
@@ -27,36 +28,17 @@ body
     background-color:#462b2b
     
   }
-  #btn4
-  {
-    font-family: 'Courier New', Courier, monospace;
-    font-size:2.5ch;
-    background-color: rgb(70, 66, 66);
-    border: 0px;
-    border-radius: 15px;
-    float: left;
-    padding-top: 10px;
-    text-align: center;
-    cursor: pointer;
-
-    
-    
-    
-  }
-  #btn4:hover
-  {
-    border: 10px;
-    background-color:#462b2b
-  }
+ 
   #btn2
   {
-    font-family: 'Courier New', Courier, monospace;
-    font-size:2.5ch;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:2.8ch;
     background-color:rgb(70, 66, 66);
     border: 0px;
     border-radius: 15px;
     float: right;
     padding-top: 10px;
+    padding-right: 20px;
     cursor: pointer;
     
   }
@@ -67,32 +49,13 @@ body
   }
 
 
-  #btn3
-  {
-    font-family: 'Courier New', Courier, monospace;
-    font-size:2.5ch;
-    background-color:rgb(70, 66, 66);
-    border: 0px;
-    border-radius: 15px;
-    float: right;
-    padding-top: 10px;
-    padding-right: 20px;
-    cursor: pointer;
-   
-  }
-
-  #btn3:hover
-  {
-    border: 10px;
-    background-color:#462b2b
-  }
-#div1
+#logo
 {
     padding-top: 20px;
     text-align: center;
 }
 
-#div2
+#wifi
 {
     padding-top: 175px;
     margin-left: 200px;
@@ -103,12 +66,12 @@ body
 }
 
 
-#div2:hover
+#wifi:hover
 {
   transform:scale(1.25, 1.25);
 }
 
-#div3
+#qrcode
 {
   
     float: right;
@@ -119,24 +82,22 @@ body
     
     
 }
-#div3:hover
+#qrcode:hover
 {
   transform:scale(1.25, 1.25);
 }
 
-#div4
+#geo
 {
 
 
     padding-top: 175px;
-    padding-left: 697px;
-   
-    
-    
-    
+    padding-left: 600px;
+     
     
 }
-#div4:hover
+
+#geo:hover
 {
   transform:scale(1.25, 1.25);
 }
