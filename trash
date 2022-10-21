@@ -1,0 +1,75 @@
+
+    <div id="wifi">
+
+        <a href="./wifi.html">
+        <img src="./imgs/3.png" width="175" height="150" alt="wifi logo">
+        </a>
+  
+    </div>
+
+    
+
+    <div id="qrcode">
+
+       <a href="./qrcode.html">
+        <img src="./imgs/8.png" width="150" height="150" alt="qrcode logo">
+       </a>
+
+    </div>
+
+    
+    <div id="geo">
+
+        <a href="./geo.html">
+        <img src="./imgs/geo.png" width="190" height="155" alt="wifi logo">
+        </a>
+  
+    </div>
+
+    
+#wifi
+{
+    padding-top: 175px;
+    margin-left: 200px;
+    float: left;
+
+
+
+}
+
+
+#wifi:hover
+{
+  transform:scale(1.25, 1.25);
+}
+
+#qrcode
+{
+  
+    float: right;
+    padding-top: 175px;
+    padding-right: 200px;
+    
+    
+    
+    
+}
+#qrcode:hover
+{
+  transform:scale(1.25, 1.25);
+}
+
+#geo
+{
+
+
+    padding-top: 175px;
+    padding-left: 600px;
+     
+    
+}
+
+#geo:hover
+{
+  transform:scale(1.25, 1.25);
+}
