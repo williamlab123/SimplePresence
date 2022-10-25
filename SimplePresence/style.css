@@ -15,6 +15,7 @@ body
     text-align: center;
     padding-left: 100px;
     cursor: pointer;
+    font-style:oblique;
   
     
 
@@ -38,6 +39,7 @@ body
     padding-top: 30px;
     padding-right: 100px;
     cursor: pointer;
+    font-style:oblique;
     
   }
   #btn2:hover
@@ -56,6 +58,7 @@ body
     justify-content: center;
     padding-top: 30px;
     cursor: pointer;
+    font-style:oblique;
     
     
   }
@@ -64,6 +67,7 @@ body
   {
     border: 10px;
     background-color:#462b2b
+
   }
 
 
@@ -92,7 +96,13 @@ footer
     padding: 0;
     position:absolute;
     left: 0;
-  }
+ }
+
+ li
+ {
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+
 
 #direitos
 {

@@ -6,8 +6,13 @@ body
 
 #img
 {
-    padding-top: 20px;
+    padding-top: 5px;
     text-align: center;
+}
+
+h2
+{
+  padding-top: 1%;
 }
 
 
@@ -16,6 +21,8 @@ body
     padding-top: 150px;
     margin-left: 200px;
     float: left;
+    height: 165px;
+    width: 155px;
 
 
 
@@ -31,6 +38,9 @@ body
 {
     padding-top: 150px;
     margin-left: 200px;
+    padding-right: 12%;
+    width: 145px;
+    height: 175px;
   
 }
 
@@ -46,6 +56,8 @@ body
     float: right;
     padding-top: 150px;
     padding-right: 200px;
+    height: 100px;
+    width: 100px;
     
 }
 #qrcode:hover
